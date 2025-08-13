@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://dg33h4jmxhko7"
+path="res://.godot/imported/texture_paint.glsl-c61d6ea91e51258651ef7bc0b98b6464.res"
+
+[deps]
+
+source_file="res://painter/texture_paint.glsl"
+dest_files=["res://.godot/imported/texture_paint.glsl-c61d6ea91e51258651ef7bc0b98b6464.res"]
+
+[params]
+
